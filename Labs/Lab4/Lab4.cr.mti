@@ -1,0 +1,127 @@
+C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALU_Control.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALU_Control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/top.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/PC.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/shifter.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/mux_5bit.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/mux_5bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_5bit
+
+Top level modules:
+	mux_5bit
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/dataPath.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/dataPath.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dataPath
+
+Top level modules:
+	dataPath
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/instruction_MEM.v {1 {vlog -work work -stats=none {C:\Users\rajat\Desktop\mips64-verilog-master\MIPS_32\instruction_MEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instruction_MEM
+
+Top level modules:
+	instruction_MEM
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/control_unit.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/control_unit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/data_MEM.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/data_MEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module data_MEM
+
+Top level modules:
+	data_MEM
+
+} {} {}} {C:/Users/rajat/OneDrive/University/Spring 2016/ECE 200/Labs/Lab4/mem.v} {1 {vlog -work work -stats=none {C:\Users\rajat\OneDrive\University\Spring 2016\ECE 200\Labs\Lab4\mem.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/add_One.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/add_One.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add_One
+
+Top level modules:
+	add_One
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALU.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALUControlTest.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/ALUControlTest.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControlTest
+
+Top level modules:
+	ALUControlTest
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/topTest.v {1 {vlog -work work -stats=none {C:\Users\rajat\Desktop\mips64-verilog-master\MIPS_32\topTest.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module topTest
+
+Top level modules:
+	topTest
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/mux_32bit.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/mux_32bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_32bit
+
+Top level modules:
+	mux_32bit
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/adder.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/registers.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/registers.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/sign_Extend.v {1 {vlog -work work -stats=none C:/Users/rajat/Desktop/mips64-verilog-master/MIPS_32/sign_Extend.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_Extend
+
+Top level modules:
+	sign_Extend
+
+} {} {}}
